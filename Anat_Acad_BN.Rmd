@@ -1,0 +1,283 @@
+---
+title: "Anatomy Academy"
+subtitle: "⚔<br/>Cadaver Lab"
+author: "Andrew Bland & Lisa Tomlin"
+institute: "Anatomy Academy"
+date: "2020/02/22 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    #css: ["default", "bland.css", "dark.css", default-fonts]
+    
+#    seal: false
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      beforeInit: "macros.js"
+
+
+---
+
+# What is this "Cadaver Lab" thing?
+
+![:scale 75%  ](Media/highlights.png)
+---
+
+background-image: url(Media/Cadaver_Lab.jpg)
+background-position: center
+background-size: contain
+
+class: bottom, right
+
+# You only live once!
+
+--
+
+![:scale 40%](Media/Bad.jpeg)
+
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r xaringan-themer, include=FALSE}
+
+## devtools::install_github("gadenbuie/xaringanthemer")
+## https://pkg.garrickadenbuie.com/xaringanthemer/index.html
+library(xaringanthemer)
+duo(secondary_color = "#edd458",inverse_background_color = "#5c91bf" ,inverse_text_color = "#0a0a0a",inverse_header_color = "#0a0a0a")
+```
+
+---
+# Objectives 
+
+--
+* Talk about the purpose of Cadaver Lab
+
+--
+
+* Discuss who participates
+  * Faculty
+  * Students
+  
+--
+ 
+* Illustrate the development of the lab over time
+
+--
+
+* Curriculum Examples 
+
+--
+
+* Student Engagement
+
+
+
+---
+#How did this get its start?
+
+![](Media/DSC04335.JPG)
+
+
+
+---
+# Purpose - Get students out of the 
+
+![:scale 75%](Media/Zones.jpeg)
+
+---
+# Help Teachers and Students find:
+
+![:scale 80%](Media/Ikigai.png)
+
+---
+
+#In Their Own Words
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9UOm9zPMXrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[2014 Pantagrph Photos](https://www.pantagraph.com/cadaver-lab/image_f44e4e63-9b90-5eef-940f-5aba2ec09f6c.html)
+
+[2017 Pantagraph Article](https://www.pantagraph.com/lifestyles/health-med-fit/hands-on-cadaver-lab-experience-benefits-students/article_05e316f4-dff0-57b5-9ac5-e3d4ceca8546.html)
+
+---
+# Purpose: Combat Misinformation
+
+--
+
+.pull-left[
+![:scale 90%](Media/Grant_F14.jpeg)]
+
+
+--
+
+![:scale 50%](Media/Ignorance.jpeg)
+
+
+---
+# History of Cadaver Lab 1
+
+.pull-left[
+![:scale 80%](Media/Tom.jpg)
+
+![:scale 80%](Media/Gary.JPG) ]
+
+.pull-right[
+
+![:scale 80%](Media/discetion.jpg)
+
+![:scale 90%](Media/discetion2.jpg)
+
+
+
+]
+
+---
+## History of Cadaver Lab 2
+.pull-left[
+![](Media/martha.jpg)
+![](Media/Dr.Best.JPG)
+]
+
+.pull-right[
+![](Media/breakout.jpg)
+
+]
+
+
+---
+### Success is building on success
+
+--
+
+![:scale 50%](Media/I_have_you.gif)
+
+--
+
+![:scale 50%](Media/Signs.jpeg)
+
+---
+.pull-left[
+
+![](Media/Pink Floyd Dark Side of Thats No Moon.jpeg)
+
+![](Media/cortese.JPG)
+]
+
+.pull-right[
+
+![](Media/Martha_heart.JPG)
+
+![](Media/heart.jpg)
+]
+
+---
+# Equipment and supplies
+.pull-left[
+![](Media/netter_stand.jpg)]
+
+.pull-right[
+![:scale 80%](Media/bone_saw.jpg)]
+![:scale 50%](Media/bone_saw_use.JPG)]
+
+
+---
+#Balance is needed 
+
+.pull-left[
+![:scale 150%](Media/Yoda Skywalker Stone Balance.gif)
+]
+
+.pull-right[
+![:scale 100%](Media/stump_the_grump.JPG)
+![:scale 80%](Media/Dr. Leonard suturing on chicken.jpg)
+]
+
+---
+# Breakout Sessions
+
+.pull-left[
+![](Media/BP.JPG)
+![](Media/BP_teach.JPG)
+
+]
+
+.pull-right[
+![](Media/Prezi.png)
+[Prezi Link](https://prezi.com/view/wJYknWEEBnrSBRBWwDQ6/)
+
+[Skin Breakout Session](https://1drv.ms/p/s!AvUU6r6Rgr1ygdx9XgMkWkjSZ-L7Rw)
+
+[MI, MI, MI](https://1drv.ms/p/s!AvUU6r6Rgr1yhPNqNrniPfDwwvXkWg)
+
+[Cadaver Lab CMS Unit 5 Page](https://cms.unit5.org/login/index.php#section-2)
+
+]
+
+
+
+---
+
+
+
+--
+
+![:scale 50%](Media/Poem.png)
+
+--
+![:scale 50%](Media/Yoda.gif)
+
+
+---
+.right-pull[
+![:scale 50%](Media/Connection.png)
+![:scale 40%](Media/connection_2.png)
+]
+
+
+---
+# Partnerships
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/0HKPI6I1u34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+# Next Steps
+
+![:scale 50%](Media/Awining.jpeg)
+
+![:scale 60%](Media/Vader Baseball Deathstar.gif)
+
+---
+
+![](Media/Kit.jpeg)
+---
+
+![:scale 50%](Media/Taylor1.png)
+
+![:scale 50%](Media/Taylor2.png)
+
+---
+#Conclusion & Discussion
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Touring UICOMP
+
+<iframe width="700" height="500" src="https://www.youtube.com/embed/0HKPI6I1u34" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
